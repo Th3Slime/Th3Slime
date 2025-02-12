@@ -1,8 +1,6 @@
 # Hello, I'm DAMIIAN
 <a href="https://www.linkedin.com/in/damian-walker-142b11247/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 👋 Hi there! I’m a passionate and driven IT professional who recently completed an IT Support Professional Certificate. My technology journey is fueled by a deep interest in cybersecurity and a commitment to solving complex problems. I thrive on leveraging my technical skills to create efficient solutions and ensure secure systems.
 
 ## Objective
