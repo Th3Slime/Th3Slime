@@ -23,7 +23,7 @@ skills to an IT support role, with a growing interest in cybersecurity.
 | Create Virtual Machines         |//|
 | Anylyze network Traffic      |//|
 | Network Scanner with nmap                  |https://github.com/Th3Slime/Network-Scanner-with-nmap.git|
-| Password Auditing with John the Ripper |//|
+| Password Auditing with John the Ripper |https://github.com/Th3Slime/Password-Auditing-with-John-the-Ripper.git|
 | Firewall Configuration with UFW (Uncomplicated Firewall) |//|
 
 ## Tools
