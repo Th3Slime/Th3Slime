@@ -1,58 +1,39 @@
 # Hello, I'm DAMIIAN
 <a href="https://www.linkedin.com/in/damian-walker-142b11247/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-👋 Hi there! I’m a passionate and driven IT professional who recently completed an IT Support Professional Certificate. My technology journey is fueled by a deep interest in cybersecurity and a commitment to solving complex problems. I thrive on leveraging my technical skills to create efficient solutions and ensure secure systems.
+👋A passionate and motivated IT professional with practical, hands-on experience in
+systems administration and network management through a dedicated home lab
+environment. Skilled in deploying and managing Windows Server, Active Directory, and
+core network services. Combines strong technical aptitude with client-support skills
+Excellent at resolving problems, explaining complex concepts clearly, and providing
+patient, user-focused support. Eager to apply a blend of technical and interpersonal
+skills to an IT support role, with a growing interest in cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Windows VMs Home Lab Setup          | [<a href="https://google.com">Detection Lab</a>](https://github.com/Th3Slime/Windows-AD-GPO-Home-Lab-Project)|
+| Set up home network diagram |//|
+| Create Virtual Machines         |//|
+| Anylyze network Traffic      |//|
+| Network Scanner with nmap                  |//|
+| Password Auditing with John the Ripper |//|
+| Firewall Configuration with UFW (Uncomplicated Firewall) |//|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> <img src="https://img.shields.io/badge/-UFW-FF6B35?&style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-John%20the%20Ripper-8B0000?&style=for-the-badge&logo=key&logoColor=white" /> <img src="https://img.shields.io/badge/-nmap-FF0000?&style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Draw.io-000000?&style=for-the-badge&logo=diagramsdotnet&logoColor=white" /> <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A4E?&style=for-the-badge&logo=virtualbox&logoColor=white" /> </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+<div> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-CySA%2B-00CC00?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> </div>
