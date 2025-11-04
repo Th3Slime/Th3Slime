@@ -22,7 +22,7 @@ skills to an IT support role, with a growing interest in cybersecurity.
 | Set up home network diagram |//|
 | Create Virtual Machines         |//|
 | Anylyze network Traffic      |//|
-| Network Scanner with nmap                  |//|
+| Network Scanner with nmap                  |https://github.com/Th3Slime/Network-Scanner-with-nmap.git|
 | Password Auditing with John the Ripper |//|
 | Firewall Configuration with UFW (Uncomplicated Firewall) |//|
 
