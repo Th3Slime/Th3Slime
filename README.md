@@ -18,7 +18,7 @@ skills to an IT support role, with a growing interest in cybersecurity.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows VMs Home Lab Setup          |README.md|
+| Windows VMs Home Lab Setup          |[README.md](https://github.com/Th3Slime/Windows-AD-GPO-Home-Lab-Project/tree/main)|
 | Set up home network diagram |//|
 | Create Virtual Machines         |//|
 | Anylyze network Traffic      |//|
